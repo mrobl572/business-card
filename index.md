@@ -1,5 +1,6 @@
 ## Michelle Robles Montejo 
 **Information Design Student**
+---
 | Birds of Canada | Birds of Mexico |
 | :--- | :--- |
 | Black-capped Chickadee | Blue-footed booby |
