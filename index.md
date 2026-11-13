@@ -4,11 +4,11 @@
 
 
 ---
-| Birds of Canada | Birds of Mexico |
-| :--- | :--- |
-| Black-capped Chickadee | Blue-footed booby |
-| Canada Goose | Ruby-Throated Hummingbird |
-| Blue Jay | Red and Blue Macaws|
+|Birds of Canada|Birds of Mexico|
+:---|:---|
+|Black-capped Chickadee|Blue-footed booby|
+|Canada Goose|Ruby-Throated Hummingbird|
+|Blue Jay|Red and Blue Macaws|
 ---
 
 
